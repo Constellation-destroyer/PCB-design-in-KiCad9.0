@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.2*%
+%TF.CreationDate,2025-06-05T19:52:50+05:30*%
+%TF.ProjectId,Ohms law 2 layers,4f686d73-206c-4617-9720-32206c617965,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Legend,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.2) date 2025-06-05 19:52:50*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,0.120000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,R1*%
+X191150000Y-111007936D02*
+X191150000Y-111462064D01*
+X192620000Y-111007936D02*
+X192620000Y-111462064D01*
+%TD*%
+M02*
